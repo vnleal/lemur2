@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 471.9" style="enable-background:new 0 0 350 471.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0;fill:none;stroke:#595757;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:rgba(188, 207, 227, 0.3);stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#BCCFE3;}
+</style>
+<path class="st1" d="M96.7,108.8l14.7-7.1l-14.7-7.2 M61.8,101.7h47.6 M178.3,108.8l14.6-7.1l-14.6-7.2 M143.4,101.7h47.5
+	 M259.8,108.8l14.6-7.1l-14.6-7.2 M224.9,101.7h47.6 M262.3,356l14.6-7.2l-14.6-7.1"/>
+
+<path class="st3" d="M61.8,101.7c0,0,152.5-1.8,212.6,0"/>
+<circle transform="translate(-60,-100)" class="st2" cx="61.4" cy="101.2" r="10">
+    <animateTransform begin="space1.end" id="pause" dur="3s" type="translate" attributeType="XML" attributeName="transform"/>
+    <animateMotion id="space1" dur="4s" begin="0; pause.end" fill="freeze" calcMode="linear" keyPoints="0;0.25;0.28;0.65;0.75;1" keyTimes="0;0.05;0.20;0.30;0.90;1" path="M61.8,101.7c0,0,152.5-1.8,212.6,0"></animateMotion>
+</circle>   
+
+<path class="st1" d="M49.4,278.4H143l-63.6,37h111l-55.5,33.5h136.8"/>
+<circle transform="translate(-278,-348)" class="st2" cx="276.9" cy="348.9" r="10">
+    <animateTransform begin="space2.end" id="pause" dur="3s" type="translate" attributeType="XML" attributeName="transform"/>
+    <animateMotion id="space2" dur="4s" begin="0; pause.end" fill="freeze" calcMode="linear" keyPoints="0;0.08;0.2;0.8;0.9;1" keyTimes="0;0.33;0.36;0.60;0.66;1" path="M49.4,278.4H143l-63.6,37h111l-55.5,33.5h136.8"></animateMotion>
+</circle>
+</svg>

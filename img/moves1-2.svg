@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 471.9" enable-background="new 0 0 350 471.9">
+<defs></defs>
+<style type="text/css">.st0{fill:none;stroke:rgba(188, 207, 227, 0.3);stroke-width:3;stroke-miterlimit:10;} .st1{fill:none;stroke:rgba(188, 207, 227, 0.3);stroke-width:2;stroke-miterlimit:10;} .st2{fill:#BCCFE3;}</style>
+<path class="st0" d="M270.8 263.1l17.4-8.5-17.4-8.5"/>
+<path class="st1" d="M232.3 92.8l6.3-18.3-18.4 6.3"/>
+
+<path class="st0" d="M197.3 203v201.1h-158.6v-149.5h249.5" id="Path2"/>
+<circle transform="translate(-197,-204)" class="st2" cx="196.8" cy="203" r="10">
+<animateTransform begin="space1.end" id="pause" dur="2s" type="translate" attributeType="XML" attributeName="transform"/>
+<animateMotion id="space1" dur="4s" begin="0; pause.end" fill="freeze" calcMode="linear" keyPoints="0;0.2;0.3;0.8;0.9;1" keyTimes="0;0.33;0.36;0.60;0.66;1" path="M197.3 203v201.1h-158.6v-149.5h249.5"></animateMotion>
+</circle>
+
+<path class="st0" d="M38.7 92.2l35.4 35.3 42.5-42.5 31.2 31.1 30.6-30.5 24.6 24.5 35.6-35.6"/>
+<circle transform="translate(-40,-95)" class="circle st2" cx="38.7" cy="92.8" r="10">
+    <animateTransform begin="space2.end" id="pause" dur="2s" type="translate" attributeType="XML" attributeName="transform"/>
+    <animateMotion id="space2" dur="4s" begin="0; pause.end" fill="freeze" calcMode="linear" keyPoints="0;0.2;0.3;0.8;0.9;1" keyTimes="0;0.33;0.36;0.60;0.66;1" path="M38.7 92.2l35.4 35.3 42.5-42.5 31.2 31.1 30.6-30.5 24.6 24.5 35.6-35.6"></animateMotion>
+</circle>
+</svg>

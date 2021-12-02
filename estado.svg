@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 250" style="enable-background:new 0 0 1000 250;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AAAAAA;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'Source Sans Pro';}
+	.st3{font-size:26.2839px;}
+	.st4{enable-background:new    ;}
+	.st5{font-size:20px;}
+	.st6{fill:none;stroke:#686969;stroke-width:0.474;stroke-linecap:round;}
+	.st7{fill:#F6A319;}
+	.st8{font-size:30.9223px;}
+	.st9{fill:#F6A319;}
+</style>
+<g id="lc">
+	<circle class="st0" cx="729.2" cy="191.1" r="27.1"/>
+	<text transform="matrix(1 0 0 1 712.5064 200.7115)" class="st1 st2 st3">LC</text>
+</g>
+<g id="nt">
+	<circle class="st0" cx="652.4" cy="191.1" r="27.1"/>
+	<text transform="matrix(1 0 0 1 635.027 200.7115)" class="st1 st2 st3">NT</text>
+</g>
+<g id="vu">
+	<circle class="st0" cx="576.2" cy="191.1" r="27.1"/>
+	<text transform="matrix(1 0 0 1 557.9618 200.7115)" class="st1 st2 st3">VU</text>
+</g>
+<g id="en">
+	<circle class="st9" cx="500.1" cy="191.1" r="27.1"/>
+	<text transform="matrix(1 0 0 1 481.8506 200.7115)" class="st1 st2 st3">EN</text>
+</g>
+<g id="cr">
+	<circle class="st0" cx="423.7" cy="191.1" r="27.1"/>
+	<text transform="matrix(1 0 0 1 404.764 200.7115)" class="st1 st2 st3">CR</text>
+</g>
+<g id="ew">
+	<circle class="st0" cx="347.5" cy="191.1" r="27.1"/>
+	<text transform="matrix(1 0 0 1 326.2961 200.7115)" class="st1 st2 st3">EW</text>
+</g>
+<g id="ex">
+	<circle class="st0" cx="271.2" cy="191.1" r="27.1"/>
+	<text transform="matrix(1 0 0 1 253.6985 200.7115)" class="st1 st2 st3">EX</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 668.1641 96.143)" class="st4"><tspan x="0" y="0" class="st2 st5">Preocupación </tspan><tspan x="30" y="24" class="st2 st5">menor </tspan></text>
+	<line class="st6" x1="729.2" y1="138.3" x2="729.2" y2="154.7"/>
+</g>
+<g>
+	<path class="st6" d="M386.5,154.7v-26.4c0-3.5,2.8-6.3,6.3-6.3H487c2.6,0,4.6-0.2,6.1-0.5s2.9-1.1,4.1-2.2c1.5-1.9,2.4-3.5,2.5-5
+		c0.1,1.5,1,3.1,2.5,5c1.2,1.2,2.6,1.9,4.1,2.2c1.5,0.3,3.6,0.5,6.1,0.5h95.4c3.5,0,6.3,2.8,6.3,6.3v26.4"/>
+	<text transform="matrix(1 0 0 1 446.8811 96.143)" class="st2 st5">Amenazado</text>
+</g>
+<g>
+	<line class="st6" x1="271.2" y1="111.1" x2="271.2" y2="154.7"/>
+	<text transform="matrix(1 0 0 1 240.6586 96.143)" class="st2 st5">Extinto</text>
+</g>
+<text transform="matrix(1 0 0 1 392.8677 52.61)" class="st7 st2 st8">DESCRIPCIÓN</text>
+</svg>

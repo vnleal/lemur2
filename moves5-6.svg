@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 471.9" enable-background="new 0 0 350 471.9">
+<style type="text/css">.st0{fill:none;stroke-width:3;stroke:rgba(188, 207, 227, 0.3);} .st1{fill:#BCCFE3;}</style><path class="st0" d="M167.5 287.6l14.5-7.1-14.5-7.1"/>
+
+<path class="st0" d="M70.8 99.8h209.3M268.1 106.9l14.4-7.1-14.4-7"/>
+<circle transform="translate(-70,-100)" class="st1" cx="71.8" cy="99.9" r="10">
+    <animateTransform begin="space1.end" id="pause" dur="2s" type="translate" attributeType="XML" attributeName="transform"/>
+    <animateMotion id="space1" dur="4s" begin="0; pause.end" fill="freeze" calcMode="linear" path="M70.8 99.8h209.3M268.1"/>
+</circle>
+    
+<path class="st0" d="M284 341.5h-225.6v-61h123.3"/>
+<circle transform="translate(-200,-280)" class="st1" cx="203" cy="280.5" r="10">
+    <animateTransform begin="space2.end" id="pause" dur="2s" type="translate" attributeType="XML" attributeName="transform"/>
+    <animateMotion id="space2" dur="4s" begin="0; pause.end" fill="freeze" calcMode="linear" keyPoints="0;0.5;0.65;0.8;1" keyTimes="0;0.30;0.36;0.66;1" path="M284 341.5h-225.6v-61h123.3"/>
+</circle>
+</svg>
